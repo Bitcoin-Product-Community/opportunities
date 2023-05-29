@@ -12,7 +12,7 @@ assignees: ''
 Project name: 
 Project summary (~5 sentences): 
 Is it open-source?: 
-Role: *Examples including product manager, marketer, community builder, etc.*
+Role: *Examples including product manager, marketer, community builder, etc. Add an appropriate label if it is available as well.*
 
 # Team Dynamics
 About how many core contributors are involved? What are their roles?
