@@ -1,5 +1,5 @@
 ---
-name: Post a Volunteer FOSS Opportunity
+name: Post Your FOSS Opportunity
 about: Fill out this template if you are a FOSS project and want to get volunteers
   from the Bitcoin Product Community. Be as thorough as possible.
 title: "[PROJECT NAME] ROLE (e.g. Product Manager / Marketer)"
@@ -27,7 +27,7 @@ assignees: ''
 # About the Role
 **What specific role(s) or skill(s) are you looking for?**
 **How many hours a week minimum will they need to commit and for how long? *Length of time can be undefined**
-**Is this a paid position?** *If yes, this is not the right place to post. Also if you are a company hoping to generate revenue through the project, do not post on the volunteer board as you should be paying contributors to your project.*
+**Is this a paid position?** *If yes, mention your rate and replace the volunteer label below with paid. If you are a company hoping to generate revenue through the project, mark this as a paid position.*
 **What can the contributor expect when onboarding to your project?**
 
 # How to Connect
